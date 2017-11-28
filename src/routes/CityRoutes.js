@@ -14,7 +14,7 @@ module.exports = (router) => {
    * GET /api/states
    */
   router.get('/states', (request, response) => {
-    findAllStates(request.query.search)
+    findAllStates()
       .then(payload => response.status(200).send(payload))
       .catch(error => response.status(404).send(error))
   })

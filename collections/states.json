@@ -12,6 +12,7 @@
 {"_id":{"$oid":"5954ea71d6a3ec1bfc019133"},"nome_uf":"Paraíba","sigla_uf":"PB","uf":25}
 {"_id":{"$oid":"5954ea71d6a3ec1bfc019134"},"nome_uf":"Pernambuco","sigla_uf":"PE","uf":26}
 {"_id":{"$oid":"5954ea71d6a3ec1bfc019135"},"nome_uf":"Alagoas","sigla_uf":"AL","uf":27}
+{"_id":{"$oid":"5954ea71d6a3ec1bfc019142"},"nome_uf":"Sergipe","sigla_uf":"SE","uf":28}
 {"_id":{"$oid":"5954ea71d6a3ec1bfc019136"},"nome_uf":"Bahia","sigla_uf":"BA","uf":29}
 {"_id":{"$oid":"5954ea71d6a3ec1bfc019137"},"nome_uf":"Minas Gerais","sigla_uf":"MG","uf":31}
 {"_id":{"$oid":"5954ea71d6a3ec1bfc019138"},"nome_uf":"Espírito Santo","sigla_uf":"ES","uf":32}
@@ -24,4 +25,3 @@
 {"_id":{"$oid":"5954ea71d6a3ec1bfc01913f"},"nome_uf":"Mato Grosso","sigla_uf":"MT","uf":51}
 {"_id":{"$oid":"5954ea71d6a3ec1bfc019140"},"nome_uf":"Goiás","sigla_uf":"GO","uf":52}
 {"_id":{"$oid":"5954ea71d6a3ec1bfc019141"},"nome_uf":"Distrito Federal","sigla_uf":"DF","uf":53}
-{"_id":{"$oid":"5954ea71d6a3ec1bfc019142"},"nome_uf":"Sergipe","sigla_uf":"SE","uf":28}

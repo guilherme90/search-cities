@@ -29,6 +29,10 @@ const CityRepository = {
    * @return {Promise}
    */
   findCitiesFromUf(ufId, query) {
+    if (! Number.isInteger(ufId)) {
+      return Promise.reject(`O código "${ufId}" fornecido é inválido!`)
+    }
+
     if (query.length === 1) {
       return Promise.reject('Oops! É necessário informar no mínimo 2 letras para buscar as cidades.')
     }

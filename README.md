@@ -1,6 +1,6 @@
 # Search Cities ###
 
-Uma simples API para buscar estados e cidades, usando MongoDB & NodeJS. As collections de estado e cidades encontra-se em `collections`.
+Uma simples API para buscar estados e cidades, usando MongoDB & NodeJS. As collections de estados e cidades encontram-se em `collections`.
 
 * Renomeie `.env.example` para `.env` e modifique as variáveis de ambiente.
 
@@ -86,8 +86,9 @@ http://8000/api/states/16/cities?search=mogi
 * 24 - Rio Grande do Norte
 * 25 - Paraíba
 * 26 - Pernambuco
+* 28 - Sergipe
 * 27 - Alagoas
-* 28 - Bahia 
+* 29 - Bahia 
 * 31 - Minas Gerais
 * 32 - Espírito Santo
 * 33 - Rio de Janeiro
@@ -99,4 +100,3 @@ http://8000/api/states/16/cities?search=mogi
 * 51 - Mato Grosso
 * 52 - Goiás
 * 53 - Distrito Federal
-* 54 - Sergipe
