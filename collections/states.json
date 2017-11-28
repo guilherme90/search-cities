@@ -1,0 +1,27 @@
+{"_id":{"$oid":"5954ea71d6a3ec1bfc019128"},"nome_uf":"Rondônia","sigla_uf":"RO","uf":11}
+{"_id":{"$oid":"5954ea71d6a3ec1bfc019129"},"nome_uf":"Acre","sigla_uf":"AC","uf":12}
+{"_id":{"$oid":"5954ea71d6a3ec1bfc01912a"},"nome_uf":"Amazonas","sigla_uf":"AM","uf":13}
+{"_id":{"$oid":"5954ea71d6a3ec1bfc01912b"},"nome_uf":"Roraima","sigla_uf":"RR","uf":14}
+{"_id":{"$oid":"5954ea71d6a3ec1bfc01912c"},"nome_uf":"Pará","sigla_uf":"PA","uf":15}
+{"_id":{"$oid":"5954ea71d6a3ec1bfc01912d"},"nome_uf":"Amapá","sigla_uf":"AP","uf":16}
+{"_id":{"$oid":"5954ea71d6a3ec1bfc01912e"},"nome_uf":"Tocantins","sigla_uf":"TO","uf":17}
+{"_id":{"$oid":"5954ea71d6a3ec1bfc01912f"},"nome_uf":"Maranhão","sigla_uf":"MA","uf":21}
+{"_id":{"$oid":"5954ea71d6a3ec1bfc019130"},"nome_uf":"Piauí","sigla_uf":"PI","uf":22}
+{"_id":{"$oid":"5954ea71d6a3ec1bfc019131"},"nome_uf":"Ceará","sigla_uf":"CE","uf":23}
+{"_id":{"$oid":"5954ea71d6a3ec1bfc019132"},"nome_uf":"Rio Grande do Norte","sigla_uf":"RN","uf":24}
+{"_id":{"$oid":"5954ea71d6a3ec1bfc019133"},"nome_uf":"Paraíba","sigla_uf":"PB","uf":25}
+{"_id":{"$oid":"5954ea71d6a3ec1bfc019134"},"nome_uf":"Pernambuco","sigla_uf":"PE","uf":26}
+{"_id":{"$oid":"5954ea71d6a3ec1bfc019135"},"nome_uf":"Alagoas","sigla_uf":"AL","uf":27}
+{"_id":{"$oid":"5954ea71d6a3ec1bfc019136"},"nome_uf":"Bahia","sigla_uf":"BA","uf":29}
+{"_id":{"$oid":"5954ea71d6a3ec1bfc019137"},"nome_uf":"Minas Gerais","sigla_uf":"MG","uf":31}
+{"_id":{"$oid":"5954ea71d6a3ec1bfc019138"},"nome_uf":"Espírito Santo","sigla_uf":"ES","uf":32}
+{"_id":{"$oid":"5954ea71d6a3ec1bfc019139"},"nome_uf":"Rio de Janeiro","sigla_uf":"RJ","uf":33}
+{"_id":{"$oid":"5954ea71d6a3ec1bfc01913a"},"nome_uf":"São Paulo","sigla_uf":"SP","uf":35}
+{"_id":{"$oid":"5954ea71d6a3ec1bfc01913b"},"nome_uf":"Paraná","sigla_uf":"PR","uf":41}
+{"_id":{"$oid":"5954ea71d6a3ec1bfc01913c"},"nome_uf":"Santa Catarina","sigla_uf":"SC","uf":42}
+{"_id":{"$oid":"5954ea71d6a3ec1bfc01913d"},"nome_uf":"Rio Grande do Sul","sigla_uf":"RS","uf":43}
+{"_id":{"$oid":"5954ea71d6a3ec1bfc01913e"},"nome_uf":"Mato Grosso do Sul","sigla_uf":"MS","uf":50}
+{"_id":{"$oid":"5954ea71d6a3ec1bfc01913f"},"nome_uf":"Mato Grosso","sigla_uf":"MT","uf":51}
+{"_id":{"$oid":"5954ea71d6a3ec1bfc019140"},"nome_uf":"Goiás","sigla_uf":"GO","uf":52}
+{"_id":{"$oid":"5954ea71d6a3ec1bfc019141"},"nome_uf":"Distrito Federal","sigla_uf":"DF","uf":53}
+{"_id":{"$oid":"5954ea71d6a3ec1bfc019142"},"nome_uf":"Sergipe","sigla_uf":"SE","uf":28}

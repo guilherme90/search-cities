@@ -1,0 +1,32 @@
+{
+  "name": "search-cities",
+  "version": "1.0.0",
+  "description": "API for search cities from Brazil",
+  "main": "index.js",
+  "config": {
+    "port": 8000
+  },
+  "scripts": {
+    "dev": "set DEBUG=http && cross-env NODE_ENV=development && nodemon index.js",
+    "start": "NODE_ENV=production && node index.js"
+  },
+  "author": {
+    "name": "Guilherme Nogueira",
+    "email": "guilhermenogueira90@gmail.com"
+  },
+  "license": "MIT",
+  "env": {
+    "node": true,
+    "es6": true
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cross-env": "^5.1.1",
+    "dotenv": "^4.0.0",
+    "express": "^4.16.2",
+    "mongoose": "^4.13.5"
+  }
+}
