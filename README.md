@@ -7,10 +7,10 @@ Uma simples API para buscar estados e cidades, usando MongoDB & NodeJS. As colle
 ## Endpoint
 
 #### Listar os estados
-```json
-http://8000/api/states
 
-// response
+`http://8000/api/states`
+
+```json
 [
     {
         "_id": "5954ea71d6a3ec1bfc019129",
@@ -23,17 +23,16 @@ http://8000/api/states
         "uf": "27",
         "sigla_uf": "AL",
         "nome_uf": "Alagoas"
-    },
-    ...
+    }
 ]
 ```
 
 #### Listar todas as cidades de um estado
 * 35 é o id do estado (São Paulo)
-```json
-http://8000/api/states/35/cities
 
-// response
+`http://8000/api/states/35/cities`
+
+```json
 [
     {
         "_id": "58a1e69ee4bb1c0ff8006b2f",
@@ -46,16 +45,14 @@ http://8000/api/states/35/cities
     {
         "_id": "58a1e69ee4bb1c0ff8006b4f",
         "nome": "AGUAI"
-    },
-    ...
+    }
 ]
 ```
 
 #### Fazer busca pelo nome das cidades
-```json
-http://8000/api/states/16/cities?search=mogi
+`http://8000/api/states/16/cities?search=mogi`
 
-// response
+```json
 [
     {
         "_id": "58a1e69ee4bb1c0ff8007730",
@@ -72,7 +69,7 @@ http://8000/api/states/16/cities?search=mogi
 ]
 ```
 
-## Código dos estados
+## Código dos estados (de acordo com [IBGE](https://ww2.ibge.gov.br/home/geociencias/areaterritorial/principal.shtm))
 * 11 - Rondônia
 * 12 - Acre
 * 13 - Amazônas
