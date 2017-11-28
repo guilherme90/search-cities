@@ -86,8 +86,8 @@ http://8000/api/states/16/cities?search=mogi
 * 24 - Rio Grande do Norte
 * 25 - Paraíba
 * 26 - Pernambuco
-* 28 - Sergipe
 * 27 - Alagoas
+* 28 - Sergipe
 * 29 - Bahia 
 * 31 - Minas Gerais
 * 32 - Espírito Santo
