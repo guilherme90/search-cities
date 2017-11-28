@@ -6,9 +6,9 @@ Uma simples API para buscar estados e cidades, usando MongoDB & NodeJS. As colle
 
 ## Endpoint
 
-#### Listar os estados
+### Listar os estados
 
-`http://8000/api/states`
+`GET http://8000/api/states`
 
 ```json
 [
@@ -27,10 +27,10 @@ Uma simples API para buscar estados e cidades, usando MongoDB & NodeJS. As colle
 ]
 ```
 
-#### Listar todas as cidades de um estado
-* 35 é o id do estado (São Paulo)
+### Listar todas as cidades de um estado
+* **35** é o id do estado
 
-`http://8000/api/states/35/cities`
+`GET http://8000/api/states/35/cities`
 
 ```json
 [
@@ -49,8 +49,8 @@ Uma simples API para buscar estados e cidades, usando MongoDB & NodeJS. As colle
 ]
 ```
 
-#### Fazer busca pelo nome das cidades
-`http://8000/api/states/16/cities?search=mogi`
+### Fazer busca pelo nome das cidades
+`GET http://8000/api/states/16/cities?search=mogi`
 
 ```json
 [
