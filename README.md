@@ -4,6 +4,18 @@ Uma simples API para buscar estados e cidades, usando MongoDB & NodeJS. As colle
 
 * Renomeie `.env.example` para `.env` e modifique as variáveis de ambiente.
 
+## Server
+`dev`
+
+```sh
+$ npm run dev
+```
+
+`prod`
+```sh
+$ npm run start
+```
+
 ## Endpoint
 
 ### Listar os estados
